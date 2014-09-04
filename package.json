@@ -1,0 +1,28 @@
+{
+  "name": "assassins-guild",
+  "description": "Server for Assassin's Guild Games",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eshsprogramming/assassins-guild",
+  "author": {
+    "name": "Benjamin Landers",
+    "email": "benjaminrlanders@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eshsprogramming/assassins-guild.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eshsprogramming/assassins-guild/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/eshsprogramming/assassins-guild/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/main.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": []
+}
